@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="DIMEN_13PX">13dp</dimen>
+    <dimen name="DIMEN_22PX">22dp</dimen>
+    <dimen name="DIMEN_60PX">60dp</dimen>
+    <dimen name="DIMEN_24PX">24dp</dimen>
+</resources>
